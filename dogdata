@@ -11,21 +11,21 @@
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "/assets/dog.jpg"
+    "image_url": "https://www.pexels.com/photo/adult-golden-retriever-sitting-on-grass-field-1001976/"
   },
   {
     "name": "Max",
     "age": 5,
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": ""
+    "image_url": "https://www.pexels.com/photo/black-labrador-retriever-lying-on-grasses-162149/"
   },
   {
     "name": "Charlie",
     "age": 2,
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": ""
+    "image_url": "https://www.pexels.com/photo/close-up-shot-of-a-cocker-spaniel-sitting-on-the-grass-4960877/"
   },
   {
     "name": "Lucy",
