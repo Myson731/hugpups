@@ -4,7 +4,7 @@
     "age": 4,
     "breed": "Mastiff",
     "temperament": "Calm, Gentle, Protective",
-    "image_url": "https://images.pexels.com/photos/1001976/pexels-photo-1001976.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "image_url": "https://images.pexels.com/photos/23528661/pexels-photo-23528661/free-photo-of-bordeaux-mastiff-dog-lying-on-grass.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "name": "Bella",
@@ -18,27 +18,27 @@
     "age": 5,
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": "https://images.pexels.com/photos/1001976/pexels-photo-1001976.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "image_url": "https://images.pexels.com/photos/162149/dog-black-labrador-black-dog-162149.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "name": "Charlie",
     "age": 2,
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": "https://images.pexels.com/photos/4960877/pexels-photo-4960877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "image_url": "https://images.pexels.com/photos/5725029/pexels-photo-5725029.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "name": "Lucy",
     "age": 6,
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": "https://www.pexels.com/photo/a-close-up-shot-of-a-bernese-mountain-dog-10842583/"
+    "image_url": "https://www.pexels.com/photo/selective-focus-photography-of-spaniel-dog-on-grass-2769563/"
   },
   {
     "name": "Daisy",
     "age": 4,
     "breed": "Cavalier King Charles Spaniel",
     "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": "https://www.pexels.com/photo/white-and-chocolate-long-coat-dog-162193/"
+    "image_url": "https://images.pexels.com/photos/2769563/pexels-photo-2769563.jpeg?auto=compress&cs=tinysrgb&w=600"
   }
 ]
